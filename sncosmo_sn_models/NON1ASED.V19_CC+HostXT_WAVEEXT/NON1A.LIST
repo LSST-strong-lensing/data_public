@@ -1,0 +1,50 @@
+
+# M. Vincenzi templates (arxiv.org/1908.05228) - Host extinction CORRECTED - Extended by J.Pierel 2023
+NON1A:  701  IIP     pycoco_ASASSN14jb_extended.SED
+NON1A:  735  IIP     pycoco_SN2008in_extended.SED
+NON1A:  744  IIP     pycoco_SN2009N_extended.SED
+NON1A:  717  IIP     pycoco_SN2005cs_extended.SED 
+NON1A:  737  IIP     pycoco_SN2009bw_extended.SED
+NON1A:  739  IIP     pycoco_SN2009ib_extended.SED
+NON1A:  731  IIP     pycoco_SN2008bj_extended.SED
+NON1A:  752  IIP     pycoco_SN2012A_extended.SED
+NON1A:  711  IIP     pycoco_SN2004et_extended.SED
+NON1A:  708  IIP     pycoco_SN1999em_extended.SED
+NON1A:  756  IIP     pycoco_SN2013ab_extended.SED
+NON1A:  757  IIP     pycoco_SN2013am_extended.SED
+NON1A:  761  IIP     pycoco_SN2013fs_extended.SED
+NON1A:  766  IIP     pycoco_SN2016X_extended.SED
+NON1A:  767  IIP     pycoco_SN1987A_extended.SED
+NON1A:  764  IIP     pycoco_SN2016bkv_extended.SED
+NON1A:  755  IIP     pycoco_SN2012aw_extended.SED
+
+NON1A:  743  IIL     pycoco_SN2009kr_extended.SED
+NON1A:  702  IIL     pycoco_ASASSN15oz_extended.SED
+NON1A:  724  IIL     pycoco_SN2007od_extended.SED
+NON1A:  763  IIL     pycoco_SN2014G_extended.SED
+NON1A:  760  IIL     pycoco_SN2013ej_extended.SED
+NON1A:  738  IIL     pycoco_SN2009dd_extended.SED
+NON1A:  758  IIL     pycoco_SN2013by_extended.SED
+
+NON1A:  707  Ib      pycoco_SN1999dn_extended.SED 
+NON1A:  754  Ib      pycoco_SN2012au_extended.SED
+NON1A:  728  Ib      pycoco_SN2007Y_extended.SED
+NON1A:  713  Ib      pycoco_SN2004gq_extended.SED
+NON1A:  703  Ib      pycoco_iPTF13bvn_extended.SED
+NON1A:  742  Ib      pycoco_SN2009jf_extended.SED
+NON1A:  741  Ib      pycoco_SN2009iz_extended.SED
+NON1A:  715  Ib      pycoco_SN2004gv_extended.SED
+NON1A:  727  Ib      pycoco_SN2007uy_extended.SED
+NON1A:  716  Ib      pycoco_SN2005bf_extended.SED
+NON1A:  733  Ib      pycoco_SN2008D_extended.SED
+NON1A:  721  Ib      pycoco_SN2006ep_extended.SED
+NON1A:  718  Ib      pycoco_SN2005hg_extended.SED
+
+NON1A:  723  Ic      pycoco_SN2007gr_extended.SED
+NON1A:  762  Ic      pycoco_SN2013ge_extended.SED
+NON1A:  705  Ic      pycoco_SN1994I_extended.SED
+NON1A:  746  Ic      pycoco_SN2011bm_extended.SED
+NON1A:  710  Ic      pycoco_SN2004aw_extended.SED
+NON1A:  712  Ic      pycoco_SN2004fe_extended.SED
+NON1A:  714  Ic      pycoco_SN2004gt_extended.SED
+
