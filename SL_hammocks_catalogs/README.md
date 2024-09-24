@@ -10,13 +10,17 @@ The `SL_Hammocks_catalogs` directory includes the following four subdirectories:
 - `mocks_qso_salp_LSST/`
 - `mocks_sn_chab_LSST/`
 - `mocks_sn_salp_LSST/`
+- `mocks_slsim/`
 
-Each subdirectory contains 10 files named `hoge_log.dat` and `hoge_result.dat` (where `hoge` represents the actual file names).
+Except for `mocks_slsim/` subdirectory, each subdirectory contains 10 files named `hoge_log.dat` and `hoge_result.dat` (where `hoge` represents the actual file names).
+The `mocks_slsim/` subdirectory contains csv file.
 
 ## File Descriptions
 
 - **`hoge_result.dat`**: Contains the main results of the mock catalogs. For detailed descriptions of the results, please see [here](https://github.com/LSSTDESC/SL-Hammocks/blob/main/result/output.txt).
 - **`hoge_log.dat`**: Contains detailed log information of the mock catalogs.
+
+For the csv file in the `mocks_slsim/` subdirectory, please see the README in the subdirectory.
 
 ## About SL-Hammocks
 
