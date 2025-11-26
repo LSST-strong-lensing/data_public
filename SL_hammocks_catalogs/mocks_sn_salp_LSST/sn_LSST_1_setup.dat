@@ -26,8 +26,8 @@ flag_mag: 3
 maglim: 3.0
 zlmin: 0.1
 zlmin_pop: 0.01
-log10Msh_min: 10.0
-log10Mh_min: 11.0
+log10Msh_min: 9.0
+log10Mh_min: 10.0
 log10Mh_max: 16.0
 flag_type_min: 1
 flag_type_max: 5
@@ -37,11 +37,11 @@ area: 50000.0
 ilim: 22.6
 zlmax: 2.0
 source: sn
-prefix: sn_LSST_1
+prefix: sn_LSSTs/sn_LSST_1
 solver: glafic
-nworker: 12
-paramc: <lens_gals.p_smhm object at 0x17e545870>
-params: <lens_gals.p_smhm object at 0x17e5459f0>
+nworker: 16
+paramc: <lens_gals.p_smhm object at 0x108b326f0>
+params: <lens_gals.p_smhm object at 0x1098c0320>
 cosmo_omega: 0.3111
 cosmo_lambda: 0.6889
 cosmo_hubble: 0.6766
