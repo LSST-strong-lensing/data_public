@@ -26,6 +26,9 @@ flag_mag: 3
 maglim: 3.0
 zlmin: 0.1
 zlmin_pop: 0.01
+log10Msh_min: 9.0
+log10Mh_min: 10.0
+log10Mh_max: 16.0
 flag_type_min: 0
 flag_type_max: 0
 imax: 26.8
@@ -34,11 +37,11 @@ area: 20000.0
 ilim: 23.3
 zlmax: 3.0
 source: qso
-prefix: qso_LSST_1
+prefix: qso_LSSTs/qso_LSST_1
 solver: glafic
-nworker: 12
-paramc: <lens_gals.p_smhm object at 0x17ec198a0>
-params: <lens_gals.p_smhm object at 0x17ec19a20>
+nworker: 10
+paramc: <lens_gals.p_smhm object at 0x10f662ba0>
+params: <lens_gals.p_smhm object at 0x10f7fccd0>
 cosmo_omega: 0.3111
 cosmo_lambda: 0.6889
 cosmo_hubble: 0.6766

@@ -26,6 +26,10 @@ For the csv file in the `mocks_slsim/` subdirectory, please see the README in th
 
 These catalogs were generated as part of the LSST DESC SL-Hammocks project. SL-Hammocks is a tool designed to predict the properties of gravitational lensing systems that are expected to be discovered by the LSST. For more details, please visit the [official SL-Hammocks repository](https://github.com/LSSTDESC/SL-Hammocks/tree/main).
 
+## Note on 2025/11/26
+
+We found a bug in the SL-Hammocks code, such that the possibility of subhalo lensing was checked only for a fraction of host halos. We are uploading new mock catalogs with this bug fixed. The old version of mock catalogs are moved to `bak2024sep/`.
+
 ## Contact
 
 If you have any questions or issues, please open an [Issue](https://github.com/your-username/SL_Hammocks_catalogs/issues) on this repository.
